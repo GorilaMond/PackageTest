@@ -1,0 +1,22 @@
+{
+  "name": "packagetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GorilaMond/PackageTest.git"
+  },
+  "keywords": [
+    "1"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/GorilaMond/PackageTest/issues"
+  },
+  "homepage": "https://github.com/GorilaMond/PackageTest#readme"
+}
